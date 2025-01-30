@@ -1,0 +1,2326 @@
+[
+  {
+    "price": "$535,000",
+    "address": "2005 Nottingham Pl, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3 baths",
+    "sqft": "3065 sq ft"
+  },
+  {
+    "price": "$1,049,000",
+    "address": "1918 Bordeaux Ct, Allen, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "4667 sq ft"
+  },
+  {
+    "price": "$550,000",
+    "address": "1202 Sanderson Ln, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2619 sq ft"
+  },
+  {
+    "price": "$506,400",
+    "address": "1245 Doris May Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2077 sq ft"
+  },
+  {
+    "price": "$623,800",
+    "address": "1259 Doris May Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2077 sq ft"
+  },
+  {
+    "price": "$415,000",
+    "address": "619 English Oak Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2087 sq ft"
+  },
+  {
+    "price": "$465,000",
+    "address": "1623 Tanglewood Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1875 sq ft"
+  },
+  {
+    "price": "$765,000",
+    "address": "1222 Newberry Dr, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3755 sq ft"
+  },
+  {
+    "price": "$440,000",
+    "address": "812 Weeping Willow Ct, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2 baths",
+    "sqft": "2231 sq ft"
+  },
+  {
+    "price": "$425,000",
+    "address": "404 N Bonham Dr, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3 baths",
+    "sqft": "1600 sq ft"
+  },
+  {
+    "price": "$720,000",
+    "address": "1810 Long Prairie Rd, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3604 sq ft"
+  },
+  {
+    "price": "$465,000",
+    "address": "113 Tortugas Dr, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2004 sq ft"
+  },
+  {
+    "price": "$295,000",
+    "address": "913 Grassy Glen Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1213 sq ft"
+  },
+  {
+    "price": "$575,000",
+    "address": "1809 Camo Ct, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2 baths",
+    "sqft": "2198 sq ft"
+  },
+  {
+    "price": "$523,900",
+    "address": "2543 Brunswick Way, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1986 sq ft"
+  },
+  {
+    "price": "$474,900",
+    "address": "2539 Brunswick Way, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1879 sq ft"
+  },
+  {
+    "price": "$530,700",
+    "address": "2555 Brunswick Way, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1984 sq ft"
+  },
+  {
+    "price": "$499,500",
+    "address": "1719 Hackberry Branch Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "2412 sq ft"
+  },
+  {
+    "price": "$740,000",
+    "address": "9108 Blue Water Dr, Plano, TX 75025",
+    "bedrooms": "4 beds",
+    "bathrooms": "3 baths",
+    "sqft": "3562 sq ft"
+  },
+  {
+    "price": "$425,000",
+    "address": "1505 Vista Bend Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1499 sq ft"
+  },
+  {
+    "price": "$634,900",
+    "address": "1215 Windgate Way, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3167 sq ft"
+  },
+  {
+    "price": "$575,000",
+    "address": "1503 Warm Springs Dr, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2776 sq ft"
+  },
+  {
+    "price": "$455,000",
+    "address": "447 Trinity Dr, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2 baths",
+    "sqft": "2092 sq ft"
+  },
+  {
+    "price": "$595,000",
+    "address": "1427 Mcclure Dr, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "2 baths",
+    "sqft": "2671 sq ft"
+  },
+  {
+    "price": "$565,000",
+    "address": "1623 Roma Ln, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "3 baths",
+    "sqft": "2518 sq ft"
+  },
+  {
+    "price": "$929,000",
+    "address": "1221 Concho Dr, Allen, TX 75013",
+    "bedrooms": "5 beds",
+    "bathrooms": "4 baths",
+    "sqft": "4015 sq ft"
+  },
+  {
+    "price": "$1,750,000",
+    "address": "1710 Briardale Dr, Lucas, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "5910 sq ft"
+  },
+  {
+    "price": "$499,900",
+    "address": "1408 Snowberry Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1889 sq ft"
+  },
+  {
+    "price": "$324,900",
+    "address": "225 Exchange Pl, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "2 baths",
+    "sqft": "2044 sq ft"
+  },
+  {
+    "price": "$874,950",
+    "address": "1147 Spencer St, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3063 sq ft"
+  },
+  {
+    "price": "$900,000",
+    "address": "1215 Brenham Ct, Allen, TX 75013",
+    "bedrooms": "5 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "3800 sq ft"
+  },
+  {
+    "price": "$819,900",
+    "address": "541 Farrell Ln, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3 baths",
+    "sqft": "2674 sq ft"
+  },
+  {
+    "price": "$1,150,000",
+    "address": "1414 Adriane Ave, Allen, TX 75013",
+    "bedrooms": "5 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "3888 sq ft"
+  },
+  {
+    "price": "$574,900",
+    "address": "1409 Brenda Ln, Allen, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "3 baths",
+    "sqft": "2862 sq ft"
+  },
+  {
+    "price": "$485,000",
+    "address": "911 Pebblebrook Dr, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2 baths",
+    "sqft": "2030 sq ft"
+  },
+  {
+    "price": "$1,344,841",
+    "address": "2113 Wakefield Ln, Allen, TX 75013",
+    "bedrooms": "5 beds",
+    "bathrooms": "5.5 baths",
+    "sqft": "4392 sq ft"
+  },
+  {
+    "price": "$649,000",
+    "address": "1302 Hockley Ct, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "2222 sq ft"
+  },
+  {
+    "price": "$375,000",
+    "address": "1159 Landon Ln, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1574 sq ft"
+  },
+  {
+    "price": "$479,000",
+    "address": "424 Trinity Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1832 sq ft"
+  },
+  {
+    "price": "$1,295,000",
+    "address": "5610 Kensington Ct, Parker, TX 75002",
+    "bedrooms": "6 beds",
+    "bathrooms": "4 baths",
+    "sqft": "3935 sq ft"
+  },
+  {
+    "price": "$480,000",
+    "address": "1628 Balboa Ln, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "2191 sq ft"
+  },
+  {
+    "price": "$1,575,000",
+    "address": "5209 Westfield Dr, Parker, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "4614 sq ft"
+  },
+  {
+    "price": "$497,600",
+    "address": "1249 Doris May Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2057 sq ft"
+  },
+  {
+    "price": "$572,200",
+    "address": "1224 Daybreak Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2077 sq ft"
+  },
+  {
+    "price": "$573,300",
+    "address": "1226 Daybreak Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2077 sq ft"
+  },
+  {
+    "price": "$395,000",
+    "address": "1407 Flameleaf Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1521 sq ft"
+  },
+  {
+    "price": "$1,499,900",
+    "address": "1613 Pantego Ln, Allen, TX 75013",
+    "bedrooms": "5 beds",
+    "bathrooms": "5.5 baths",
+    "sqft": "5174 sq ft"
+  },
+  {
+    "price": "$945,000",
+    "address": "930 Peppy San Trl, Lucas, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "3 baths",
+    "sqft": "3020 sq ft"
+  },
+  {
+    "price": "$617,500",
+    "address": "1243 Doris May Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2077 sq ft"
+  },
+  {
+    "price": "$576,400",
+    "address": "1247 Doris May Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2660 sq ft"
+  },
+  {
+    "price": "$626,800",
+    "address": "1253 Doris May Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2077 sq ft"
+  },
+  {
+    "price": "$618,700",
+    "address": "1251 Doris May Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2077 sq ft"
+  },
+  {
+    "price": "$799,000",
+    "address": "1809 Stetson Way, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "4367 sq ft"
+  },
+  {
+    "price": "$580,000",
+    "address": "919 Cougar Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "2259 sq ft"
+  },
+  {
+    "price": "$545,000",
+    "address": "1405 Rivercrest Blvd, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3 baths",
+    "sqft": "2806 sq ft"
+  },
+  {
+    "price": "$1,150,000",
+    "address": "1110 Bloom St, Lucas, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3663 sq ft"
+  },
+  {
+    "price": "$799,000",
+    "address": "911 Rotan Ct, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3 baths",
+    "sqft": "3002 sq ft"
+  },
+  {
+    "price": "$312,500",
+    "address": "123 W Way Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1375 sq ft"
+  },
+  {
+    "price": "$435,000",
+    "address": "719 Fawn Valley Dr, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2728 sq ft"
+  },
+  {
+    "price": "$549,000",
+    "address": "1529 Winding Trail Dr, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3 baths",
+    "sqft": "2943 sq ft"
+  },
+  {
+    "price": "$739,999",
+    "address": "1322 Waterdown Dr, Allen, TX 75013",
+    "bedrooms": "5 beds",
+    "bathrooms": "4 baths",
+    "sqft": "3629 sq ft"
+  },
+  {
+    "price": "$619,000",
+    "address": "1251 Doris May Dr #25, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2660 sq ft"
+  },
+  {
+    "price": "$576,400",
+    "address": "1247 Doris May Dr #23, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2559 sq ft"
+  },
+  {
+    "price": "$1,350,000",
+    "address": "1401 Enchanted Way, Lucas, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3634 sq ft"
+  },
+  {
+    "price": "$2,195,000",
+    "address": "611 Inverness Ln, Lucas, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "7 baths",
+    "sqft": "6163 sq ft"
+  },
+  {
+    "price": "$469,000",
+    "address": "1530 Fallcreek Ct, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1785 sq ft"
+  },
+  {
+    "price": "$580,000",
+    "address": "1629 Warm Springs Dr, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3 baths",
+    "sqft": "2935 sq ft"
+  },
+  {
+    "price": "$919,000",
+    "address": "2293 Appaloosa Dr, Allen, TX 75013",
+    "bedrooms": "5 beds",
+    "bathrooms": "4 baths",
+    "sqft": "3287 sq ft"
+  },
+  {
+    "price": "$1,200,000",
+    "address": "1920 Shady Ln, Lucas, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2811 sq ft"
+  },
+  {
+    "price": "$699,900",
+    "address": "610 Meadowbrook St, Allen, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3103 sq ft"
+  },
+  {
+    "price": "$410,000",
+    "address": "601 White Oak St, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2131 sq ft"
+  },
+  {
+    "price": "$1,060,000",
+    "address": "1340 Driftwood Ln, Lucas, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "4 baths",
+    "sqft": "4024 sq ft"
+  },
+  {
+    "price": "$314,500",
+    "address": "540 Oldbridge Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1259 sq ft"
+  },
+  {
+    "price": "$585,100",
+    "address": "863 Lennox Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2244 sq ft"
+  },
+  {
+    "price": "$686,980",
+    "address": "1261 Porter St, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2831 sq ft"
+  },
+  {
+    "price": "$378,900",
+    "address": "651 N Watters Rd #5303, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1529 sq ft"
+  },
+  {
+    "price": "$2,995,000",
+    "address": "5300 Middleton Dr, Parker, TX 75002",
+    "bedrooms": "6 beds",
+    "bathrooms": "5.5 baths",
+    "sqft": "9011 sq ft"
+  },
+  {
+    "price": "$505,000",
+    "address": "2226 Adena Springs Dr, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2156 sq ft"
+  },
+  {
+    "price": "$399,000",
+    "address": "103 Lily Ct, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1439 sq ft"
+  },
+  {
+    "price": "$399,900",
+    "address": "709 Pebblebrook Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1761 sq ft"
+  },
+  {
+    "price": "$1,399,900",
+    "address": "Grand Maison III Plan, Parker, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3600 sq ft"
+  },
+  {
+    "price": "$849,900",
+    "address": "1818 San Leanna Dr, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "4 baths",
+    "sqft": "3783 sq ft"
+  },
+  {
+    "price": "$549,999",
+    "address": "1443 Berkley Rd, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2913 sq ft"
+  },
+  {
+    "price": "$629,000",
+    "address": "2031 Lunenburg Dr, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3636 sq ft"
+  },
+  {
+    "price": "$440,000",
+    "address": "801 Rivercrest Blvd, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1752 sq ft"
+  },
+  {
+    "price": "$713,000",
+    "address": "1707 Long Prairie Rd, Allen, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "4 baths",
+    "sqft": "3674 sq ft"
+  },
+  {
+    "price": "$999,000",
+    "address": "1090 Peppy San Dr, Lucas, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "3763 sq ft"
+  },
+  {
+    "price": "$624,900",
+    "address": "1406 Lighthouse Ln, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2643 sq ft"
+  },
+  {
+    "price": "$526,000",
+    "address": "1412 Springmeadow Dr, Allen, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2461 sq ft"
+  },
+  {
+    "price": "$889,000",
+    "address": "2159 Country Club Rd, Lucas, TX 75002",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1827 sq ft"
+  },
+  {
+    "price": "$599,000",
+    "address": "720 Duchess Dr, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2660 sq ft"
+  },
+  {
+    "price": "$465,000",
+    "address": "2014 Saint Anne Dr, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "2 baths",
+    "sqft": "2000 sq ft"
+  },
+  {
+    "price": "$1,298,389",
+    "address": "965 Coreopsis Dr, Allen, TX 75013",
+    "bedrooms": "5 beds",
+    "bathrooms": "5 baths",
+    "sqft": "4177 sq ft"
+  },
+  {
+    "price": "$434,500",
+    "address": "811 Cornell Ln, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "2038 sq ft"
+  },
+  {
+    "price": "$1,199,500",
+    "address": "700 Saddlebrook Dr, Lucas, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "4600 sq ft"
+  },
+  {
+    "price": "$404,999",
+    "address": "1309 Rivercrest Blvd, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1452 sq ft"
+  },
+  {
+    "price": "$362,500",
+    "address": "502 Keith Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1464 sq ft"
+  },
+  {
+    "price": "$404,410",
+    "address": "1036 Bristleleaf Way, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1586 sq ft"
+  },
+  {
+    "price": "$375,000",
+    "address": "701 Sandy Creek Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1637 sq ft"
+  },
+  {
+    "price": "$515,530",
+    "address": "1040 Bristleleaf Way, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2075 sq ft"
+  },
+  {
+    "price": "$465,550",
+    "address": "1038 Bristleleaf Way, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1859 sq ft"
+  },
+  {
+    "price": "$560,460",
+    "address": "1035 Featherglass Ln, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2244 sq ft"
+  },
+  {
+    "price": "$540,560",
+    "address": "1032 Bristleleaf Way, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2134 sq ft"
+  },
+  {
+    "price": "$279,972",
+    "address": "521 Hanover Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1380 sq ft"
+  },
+  {
+    "price": "$1,693,927",
+    "address": "4511 Devon Dr, Parker, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "5 baths",
+    "sqft": "4885 sq ft"
+  },
+  {
+    "price": "$379,900",
+    "address": "642 Albrook Dr, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2057 sq ft"
+  },
+  {
+    "price": "$1,895,000",
+    "address": "120 Winding Creek Dr, Lucas, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "5.5 baths",
+    "sqft": "5147 sq ft"
+  },
+  {
+    "price": "$642,500",
+    "address": "1206 Klondike Ln, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "4 baths",
+    "sqft": "3980 sq ft"
+  },
+  {
+    "price": "$1,579,950",
+    "address": "5209 Midnight Ct, Parker, TX 75002",
+    "bedrooms": "6 beds",
+    "bathrooms": "4 baths",
+    "sqft": "4930 sq ft"
+  },
+  {
+    "price": "$688,000",
+    "address": "1415 Lampasas Dr, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3017 sq ft"
+  },
+  {
+    "price": "$370,000",
+    "address": "418 Timberbend Trl, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1471 sq ft"
+  },
+  {
+    "price": "$675,000",
+    "address": "1019 Midland Dr, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3041 sq ft"
+  },
+  {
+    "price": "$379,900",
+    "address": "1623 Southwestern Dr, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1921 sq ft"
+  },
+  {
+    "price": "$1,300,000",
+    "address": "926 Waldorf Way, Allen, TX 75013",
+    "bedrooms": "6 beds",
+    "bathrooms": "5.5 baths",
+    "sqft": "4354 sq ft"
+  },
+  {
+    "price": "$639,000",
+    "address": "1051 Quail Valley Rd, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2242 sq ft"
+  },
+  {
+    "price": "$571,000",
+    "address": "1246 Daybreak Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2077 sq ft"
+  },
+  {
+    "price": "$1,050,000",
+    "address": "1615 Holyoak Ln, Lucas, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3 baths",
+    "sqft": "3387 sq ft"
+  },
+  {
+    "price": "$586,440",
+    "address": "855 Lennox Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2244 sq ft"
+  },
+  {
+    "price": "$588,596",
+    "address": "853 Lennox Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2244 sq ft"
+  },
+  {
+    "price": "$210,000",
+    "address": "6711 County Road 890, Allen, TX 75002",
+    "bedrooms": "2 beds",
+    "bathrooms": "1 bath",
+    "sqft": "912 sq ft"
+  },
+  {
+    "price": "$435,941",
+    "address": "847 Lennox Dr, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1569 sq ft"
+  },
+  {
+    "price": "$1,749,000",
+    "address": "4600 Whitestone Dr, Parker, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "5.5 baths",
+    "sqft": "5193 sq ft"
+  },
+  {
+    "price": "$1,699,999",
+    "address": "4605 Cornwall Ct, Parker, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "5 baths",
+    "sqft": "4762 sq ft"
+  },
+  {
+    "price": "$533,990",
+    "address": "1701 Shawnee Trl, Allen, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2664 sq ft"
+  },
+  {
+    "price": "$538,777",
+    "address": "1700 Warm Springs Dr, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2626 sq ft"
+  },
+  {
+    "price": "$675,000",
+    "address": "508 Bel Air Dr, Allen, TX 75013",
+    "bedrooms": "5 beds",
+    "bathrooms": "3 baths",
+    "sqft": "2601 sq ft"
+  },
+  {
+    "price": "$890,000",
+    "address": "2346 Boxwood Dr, Allen, TX 75013",
+    "bedrooms": "5 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "4647 sq ft"
+  },
+  {
+    "price": "$435,000",
+    "address": "1040 Mj Brown Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1875 sq ft"
+  },
+  {
+    "price": "$395,000",
+    "address": "603 Lake Ridge Dr, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1773 sq ft"
+  },
+  {
+    "price": "$960,000",
+    "address": "12 Brookhaven Dr, Lucas, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3108 sq ft"
+  },
+  {
+    "price": "$980,000",
+    "address": "701 Rock Ridge Rd, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "3080 sq ft"
+  },
+  {
+    "price": "$548,000",
+    "address": "701 Squire Ct, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2540 sq ft"
+  },
+  {
+    "price": "$419,000",
+    "address": "1810 Caddo Lake Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1781 sq ft"
+  },
+  {
+    "price": "$975,000",
+    "address": "281 Hampton Ct, Fairview, TX 75069",
+    "bedrooms": "5 beds",
+    "bathrooms": "4 baths",
+    "sqft": "3984 sq ft"
+  },
+  {
+    "price": "$694,650",
+    "address": "1251 Porter St, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2831 sq ft"
+  },
+  {
+    "price": "$1,150,000",
+    "address": "1905 San Jacinto Dr, Allen, TX 75013",
+    "bedrooms": "5 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "4412 sq ft"
+  },
+  {
+    "price": "$675,000",
+    "address": "1401 Fieldstone Dr, Allen, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "4 baths",
+    "sqft": "3908 sq ft"
+  },
+  {
+    "price": "$549,000",
+    "address": "810 Fall Dr, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3191 sq ft"
+  },
+  {
+    "price": "$685,000",
+    "address": "1077 James Ct, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2834 sq ft"
+  },
+  {
+    "price": "$417,400",
+    "address": "632 Albrook Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1624 sq ft"
+  },
+  {
+    "price": "$884,000",
+    "address": "883 Alfred Ct, Allen, TX 75013",
+    "bedrooms": "5 beds",
+    "bathrooms": "4 baths",
+    "sqft": "3476 sq ft"
+  },
+  {
+    "price": "$975,000",
+    "address": "846 Belltown Dr, Allen, TX 75013",
+    "bedrooms": "5 beds",
+    "bathrooms": "4 baths",
+    "sqft": "3995 sq ft"
+  },
+  {
+    "price": "$700,000",
+    "address": "942 Nightingale Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3404 sq ft"
+  },
+  {
+    "price": "$539,000",
+    "address": "1426 Autumnmist Dr, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3 baths",
+    "sqft": "2876 sq ft"
+  },
+  {
+    "price": "$579,900",
+    "address": "433 Sunrise Dr, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3 baths",
+    "sqft": "3235 sq ft"
+  },
+  {
+    "price": "$530,000",
+    "address": "1704 Giddings Ct, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2621 sq ft"
+  },
+  {
+    "price": "$949,000",
+    "address": "Bennett Plan, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2928 sq ft"
+  },
+  {
+    "price": "$535,000",
+    "address": "1421 Berkley Rd, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2546 sq ft"
+  },
+  {
+    "price": "$735,000",
+    "address": "801 Bedell Ln, Allen, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3759 sq ft"
+  },
+  {
+    "price": "$674,999",
+    "address": "1530 Bethlehem Rd, Allen, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "3964 sq ft"
+  },
+  {
+    "price": "$899,995",
+    "address": "968 Terracotta Dr, Allen, TX 75013",
+    "bedrooms": "5 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "4638 sq ft"
+  },
+  {
+    "price": "$648,000",
+    "address": "2128 Chambers Dr, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3 baths",
+    "sqft": "2872 sq ft"
+  },
+  {
+    "price": "$875,000",
+    "address": "406 Bastrop Dr, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "3965 sq ft"
+  },
+  {
+    "price": "$865,000",
+    "address": "1902 Wilderness Way, Allen, TX 75013",
+    "bedrooms": "5 beds",
+    "bathrooms": "4 baths",
+    "sqft": "4328 sq ft"
+  },
+  {
+    "price": "$589,000",
+    "address": "1242 Daybreak Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2057 sq ft"
+  },
+  {
+    "price": "$825,000",
+    "address": "848 Willow Winds St, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "4 baths",
+    "sqft": "3887 sq ft"
+  },
+  {
+    "price": "$854,900",
+    "address": "1310 Dalhart Dr, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3759 sq ft"
+  },
+  {
+    "price": "$339,900",
+    "address": "1307 Woodland Ct, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1416 sq ft"
+  },
+  {
+    "price": "$495,000",
+    "address": "1540 Hardeman Ct, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2415 sq ft"
+  },
+  {
+    "price": "$556,090",
+    "address": "1228 Lopiano Way, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2244 sq ft"
+  },
+  {
+    "price": "$319,900",
+    "address": "712 Sunny Slope Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1481 sq ft"
+  },
+  {
+    "price": "$1,150,000",
+    "address": "7751 E Parker Rd, Lucas, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2995 sq ft"
+  },
+  {
+    "price": "$575,000",
+    "address": "316 Canyon Springs Dr, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3 baths",
+    "sqft": "3008 sq ft"
+  },
+  {
+    "price": "$949,000",
+    "address": "1830 Trinidad Ln, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "4228 sq ft"
+  },
+  {
+    "price": "$849,000",
+    "address": "2021 Temperate Dr, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3 baths",
+    "sqft": "3518 sq ft"
+  },
+  {
+    "price": "$425,000",
+    "address": "1121 Landon Ln, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1988 sq ft"
+  },
+  {
+    "price": "$289,900",
+    "address": "510 Post Oak Ln, Allen, TX 75002",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1388 sq ft"
+  },
+  {
+    "price": "$683,300",
+    "address": "1233 Porter St, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2773 sq ft"
+  },
+  {
+    "price": "$419,000",
+    "address": "108 N Arbor Ridge Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1955 sq ft"
+  },
+  {
+    "price": "$1,799,990",
+    "address": "5405 Middleton Dr, Parker, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "5 baths",
+    "sqft": "4996 sq ft"
+  },
+  {
+    "price": "$569,900",
+    "address": "1712 Paytyn Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2270 sq ft"
+  },
+  {
+    "price": "$489,900",
+    "address": "1706 Live Oak Ln, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2274 sq ft"
+  },
+  {
+    "price": "$400,000",
+    "address": "880 E Winningkoff Rd, Lucas, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "956 sq ft"
+  },
+  {
+    "price": "$1,280,000",
+    "address": "1003 Wimberly Ct, Allen, TX 75013",
+    "bedrooms": "5 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "4580 sq ft"
+  },
+  {
+    "price": "$480,000",
+    "address": "708 Lake Highlands Dr, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1930 sq ft"
+  },
+  {
+    "price": "$569,900",
+    "address": "1526 Teresa Ann Ln, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2087 sq ft"
+  },
+  {
+    "price": "$434,000",
+    "address": "1167 Wiltshire Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1712 sq ft"
+  },
+  {
+    "price": "$699,700",
+    "address": "1230 Winningkoff Rd, Lucas, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1393 sq ft"
+  },
+  {
+    "price": "$795,000",
+    "address": "1872 Audubon Pond Way, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3069 sq ft"
+  },
+  {
+    "price": "$1,400,000",
+    "address": "2725 Wolf Creek Dr, Lucas, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "5456 sq ft"
+  },
+  {
+    "price": "$375,000",
+    "address": "1104 Roaring Springs Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1618 sq ft"
+  },
+  {
+    "price": "$1,350,000",
+    "address": "1920 Mary Lee Ln, Lucas, TX 75002",
+    "bedrooms": "6 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "3738 sq ft"
+  },
+  {
+    "price": "$615,000",
+    "address": "1318 Meredith Dr, Allen, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "3 baths",
+    "sqft": "3238 sq ft"
+  },
+  {
+    "price": "$634,770",
+    "address": "1232 Lopiano Way, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2688 sq ft"
+  },
+  {
+    "price": "$514,990",
+    "address": "1224 Junction Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2075 sq ft"
+  },
+  {
+    "price": "$630,650",
+    "address": "1037 Featherglass Ln, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2688 sq ft"
+  },
+  {
+    "price": "$1,353,513",
+    "address": "993 Stargrass Dr, Allen, TX 75013",
+    "bedrooms": "5 beds",
+    "bathrooms": "5.5 baths",
+    "sqft": "4234 sq ft"
+  },
+  {
+    "price": "$779,000",
+    "address": "1613 University Dr, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "4151 sq ft"
+  },
+  {
+    "price": "$2,800,000",
+    "address": "41 Graham Ln, Lucas, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "5 baths",
+    "sqft": "4271 sq ft"
+  },
+  {
+    "price": "$619,900",
+    "address": "1301 Mills Ct, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "2 baths",
+    "sqft": "2019 sq ft"
+  },
+  {
+    "price": "$590,000",
+    "address": "1621 Fir Harbor Ct, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2711 sq ft"
+  },
+  {
+    "price": "$874,900",
+    "address": "404 Twin Creeks Dr, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3 baths",
+    "sqft": "3668 sq ft"
+  },
+  {
+    "price": "$437,990",
+    "address": "651 N Watters Rd #4305, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1529 sq ft"
+  },
+  {
+    "price": "$439,990",
+    "address": "651 N Watters Rd #4303, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1529 sq ft"
+  },
+  {
+    "price": "$459,990",
+    "address": "651 N Watters Rd #4404, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1702 sq ft"
+  },
+  {
+    "price": "$439,990",
+    "address": "651 N Watters Rd #4405, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1529 sq ft"
+  },
+  {
+    "price": "$690,000",
+    "address": "1123 Hampton Dr, Allen, TX 75013",
+    "bedrooms": "5 beds",
+    "bathrooms": "3 baths",
+    "sqft": "3513 sq ft"
+  },
+  {
+    "price": "$1,349,068",
+    "address": "990 Coreopsis Dr, Allen, TX 75013",
+    "bedrooms": "5 beds",
+    "bathrooms": "5 baths",
+    "sqft": "4169 sq ft"
+  },
+  {
+    "price": "$313,500",
+    "address": "505 Scarlet Oak Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1512 sq ft"
+  },
+  {
+    "price": "$1,699,999",
+    "address": "4403 Devon Dr, Parker, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "5.5 baths",
+    "sqft": "4977 sq ft"
+  },
+  {
+    "price": "$460,000",
+    "address": "811 Fawn Valley Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2128 sq ft"
+  },
+  {
+    "price": "$489,990",
+    "address": "651 N Watters Rd #4300, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "2031 sq ft"
+  },
+  {
+    "price": "$440,000",
+    "address": "651 N Watters Rd #8206, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "2031 sq ft"
+  },
+  {
+    "price": "$497,900",
+    "address": "LARSON Plan, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1937 sq ft"
+  },
+  {
+    "price": "$479,900",
+    "address": "JAXON Plan, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1837 sq ft"
+  },
+  {
+    "price": "$459,900",
+    "address": "ANNADEL Plan, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1804 sq ft"
+  },
+  {
+    "price": "$474,900",
+    "address": "HARLAN Plan, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1727 sq ft"
+  },
+  {
+    "price": "$508,900",
+    "address": "RUTHERFORD Plan, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1986 sq ft"
+  },
+  {
+    "price": "$1,600,000",
+    "address": "1630 Shady Creek Cir, Lucas, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "4 baths",
+    "sqft": "4958 sq ft"
+  },
+  {
+    "price": "$489,990",
+    "address": "651 N Watters Rd #4406, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "2031 sq ft"
+  },
+  {
+    "price": "$2,500,000",
+    "address": "1080 Snider Ln, Lucas, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "6 baths",
+    "sqft": "6768 sq ft"
+  },
+  {
+    "price": "$595,000",
+    "address": "1713 Westfield Way, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3 baths",
+    "sqft": "2907 sq ft"
+  },
+  {
+    "price": "$729,999",
+    "address": "1044 Everglades Dr, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3 baths",
+    "sqft": "3669 sq ft"
+  },
+  {
+    "price": "$3,299,000",
+    "address": "915 Bentwater Dr, Lucas, TX 75002",
+    "bedrooms": "6 beds",
+    "bathrooms": "7 baths",
+    "sqft": "7036 sq ft"
+  },
+  {
+    "price": "$2,595,000",
+    "address": "719 Preakness Park, Lucas, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "6.5 baths",
+    "sqft": "6589 sq ft"
+  },
+  {
+    "price": "$429,990",
+    "address": "651 N Watters Rd #4103, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1529 sq ft"
+  },
+  {
+    "price": "$419,990",
+    "address": "651 N Watters Rd #3405, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1529 sq ft"
+  },
+  {
+    "price": "$664,990",
+    "address": "1613 Indigo Trl, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2755 sq ft"
+  },
+  {
+    "price": "$499,000",
+    "address": "1031 Grand Teton Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "2034 sq ft"
+  },
+  {
+    "price": "$415,000",
+    "address": "710 Pebblebrook Dr, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1617 sq ft"
+  },
+  {
+    "price": "$299,500",
+    "address": "712 Wandering Way Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1375 sq ft"
+  },
+  {
+    "price": "$740,000",
+    "address": "1019 Devonshire Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2802 sq ft"
+  },
+  {
+    "price": "$510,000",
+    "address": "414 Leameadow Dr, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "3062 sq ft"
+  },
+  {
+    "price": "$1,699,900",
+    "address": "945 Bristol Park, Lucas, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3 baths",
+    "sqft": "4726 sq ft"
+  },
+  {
+    "price": "$499,990",
+    "address": "1427 Christine Dr, Allen, TX 75002",
+    "bedrooms": "6 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2881 sq ft"
+  },
+  {
+    "price": "$339,900",
+    "address": "706 S Jupiter Rd #1206, Allen, TX 75002",
+    "bedrooms": "2 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1491 sq ft"
+  },
+  {
+    "price": "$614,000",
+    "address": "809 Otto Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2560 sq ft"
+  },
+  {
+    "price": "$329,900",
+    "address": "556 Harrison Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1255 sq ft"
+  },
+  {
+    "price": "$388,000",
+    "address": "1008 Dickens Ln, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1531 sq ft"
+  },
+  {
+    "price": "$619,000",
+    "address": "901 Cypress Dr, Allen, TX 75002",
+    "bedrooms": "6 beds",
+    "bathrooms": "4 baths",
+    "sqft": "3074 sq ft"
+  },
+  {
+    "price": "$1,200,000",
+    "address": "725 Chapel Ct, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "4662 sq ft"
+  },
+  {
+    "price": "$665,290",
+    "address": "1065 Bristleleaf Way, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2773 sq ft"
+  },
+  {
+    "price": "$1,069,000",
+    "address": "Addison III Plan, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "3781 sq ft"
+  },
+  {
+    "price": "$12,000,000",
+    "address": "2305 Country Club Rd, Lucas, TX 75002",
+    "bedrooms": "7 beds",
+    "bathrooms": "9 baths",
+    "sqft": "11367 sq ft"
+  },
+  {
+    "price": "$3,749,999",
+    "address": "216 Mcmillen Rd, Lucas, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3 baths",
+    "sqft": "3653 sq ft"
+  },
+  {
+    "price": "$339,000",
+    "address": "210 Allenwood Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1388 sq ft"
+  },
+  {
+    "price": "$399,999",
+    "address": "716 Ridgemont Dr, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1922 sq ft"
+  },
+  {
+    "price": "$495,000",
+    "address": "629 Ridgemont Dr, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2665 sq ft"
+  },
+  {
+    "price": "$430,000",
+    "address": "1306 Mistywood Ln, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2 baths",
+    "sqft": "2073 sq ft"
+  },
+  {
+    "price": "$439,990",
+    "address": "651 N Watters Rd #3303, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1529 sq ft"
+  },
+  {
+    "price": "$1,100,000",
+    "address": "420 Pennington Dr, Lucas, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "6 baths",
+    "sqft": "4491 sq ft"
+  },
+  {
+    "price": "$549,990",
+    "address": "1228 Porter St, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2244 sq ft"
+  },
+  {
+    "price": "$1,250,000",
+    "address": "1600 Windmill Ct, Lucas, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "5259 sq ft"
+  },
+  {
+    "price": "$464,990",
+    "address": "Kelsi Plan, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1859 sq ft"
+  },
+  {
+    "price": "$579,990",
+    "address": "Henry Plan, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2350 sq ft"
+  },
+  {
+    "price": "$529,990",
+    "address": "Parker Plan, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2134 sq ft"
+  },
+  {
+    "price": "$564,990",
+    "address": "Ethan Plan, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2224 sq ft"
+  },
+  {
+    "price": "$444,990",
+    "address": "Conley Plan, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1586 sq ft"
+  },
+  {
+    "price": "$604,990",
+    "address": "Martin Plan, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2688 sq ft"
+  },
+  {
+    "price": "$524,990",
+    "address": "Libby Plan, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2075 sq ft"
+  },
+  {
+    "price": "$403,990",
+    "address": "Conley Plan, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1586 sq ft"
+  },
+  {
+    "price": "$554,990",
+    "address": "Ethan Plan, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2224 sq ft"
+  },
+  {
+    "price": "$514,990",
+    "address": "Libby Plan, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2075 sq ft"
+  },
+  {
+    "price": "$534,990",
+    "address": "Parker Plan, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2134 sq ft"
+  },
+  {
+    "price": "$574,990",
+    "address": "Henry Plan, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2350 sq ft"
+  },
+  {
+    "price": "$624,990",
+    "address": "Martin Plan, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2688 sq ft"
+  },
+  {
+    "price": "$1,350,000",
+    "address": "1500 Enchanted Way, Lucas, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "5.5 baths",
+    "sqft": "5394 sq ft"
+  },
+  {
+    "price": "$469,990",
+    "address": "Kelsi Plan, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "1859 sq ft"
+  },
+  {
+    "price": "$449,990",
+    "address": "651 N Watters Rd #4202, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1702 sq ft"
+  },
+  {
+    "price": "$699,990",
+    "address": "Madeleine Plan, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "4 baths",
+    "sqft": "3005 sq ft"
+  },
+  {
+    "price": "$639,990",
+    "address": "Calais Plan, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2679 sq ft"
+  },
+  {
+    "price": "$656,990",
+    "address": "Giselle Plan, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2773 sq ft"
+  },
+  {
+    "price": "$669,990",
+    "address": "Lyonne Plan, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2831 sq ft"
+  },
+  {
+    "price": "$444,990",
+    "address": "651 N Watters Rd #3202, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1702 sq ft"
+  },
+  {
+    "price": "$1,950,000",
+    "address": "215 Mcmillen Rd, Lucas, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "4 baths",
+    "sqft": "5648 sq ft"
+  },
+  {
+    "price": "$380,000",
+    "address": "1405 Spring St, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2163 sq ft"
+  },
+  {
+    "price": "$1,999,000",
+    "address": "1330 Beverly Cir, Lucas, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "5.5 baths",
+    "sqft": "5709 sq ft"
+  },
+  {
+    "price": "$474,000",
+    "address": "1308 Timbercreek Ct, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1825 sq ft"
+  },
+  {
+    "price": "$1,544,900",
+    "address": "Brunswick - 4 car garage Plan, Allen, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "4876 sq ft"
+  },
+  {
+    "price": "$1,449,900",
+    "address": "Grand Silverleaf Plan, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "3898 sq ft"
+  },
+  {
+    "price": "$640,000",
+    "address": "Roberts Plan, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2057 sq ft"
+  },
+  {
+    "price": "$580,000",
+    "address": "Johnson Plan, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "2.5 baths",
+    "sqft": "2077 sq ft"
+  },
+  {
+    "price": "$570,900",
+    "address": "1277 Doris May Dr, Allen, TX 75013",
+    "bedrooms": "3 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "2559 sq ft"
+  },
+  {
+    "price": "$1,120,000",
+    "address": "Stella Plan, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "4 baths",
+    "sqft": "3694 sq ft"
+  },
+  {
+    "price": "$1,750,000",
+    "address": "Laila Plan, Allen, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "5.5 baths",
+    "sqft": "6350 sq ft"
+  },
+  {
+    "price": "$1,524,900",
+    "address": "Grand Estate Plan, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "5.5 baths",
+    "sqft": "4451 sq ft"
+  },
+  {
+    "price": "$1,470,000",
+    "address": "Belton - SH 9405 Plan, Allen, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "5.5 baths",
+    "sqft": "5869 sq ft"
+  },
+  {
+    "price": "$1,291,000",
+    "address": "Sabine - SH 8316 Plan, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "3668 sq ft"
+  },
+  {
+    "price": "$1,430,000",
+    "address": "Ingram - 7413 PR Plan, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "5 baths",
+    "sqft": "5509 sq ft"
+  },
+  {
+    "price": "$182,000",
+    "address": "Oakwood Plan, Allen, TX 75013",
+    "bedrooms": "1 bed",
+    "bathrooms": "2 baths",
+    "sqft": "1262 sq ft"
+  },
+  {
+    "price": "$243,000",
+    "address": "Harrington Plan, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1524 sq ft"
+  },
+  {
+    "price": "$1,379,000",
+    "address": "Liberty - SH 9308 Plan, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "4554 sq ft"
+  },
+  {
+    "price": "$266,000",
+    "address": "Xenia Plan, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1729 sq ft"
+  },
+  {
+    "price": "$1,150,000",
+    "address": "Brenham III Plan, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "3798 sq ft"
+  },
+  {
+    "price": "$1,325,000",
+    "address": "Hillsboro - SH 9309 Plan, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3865 sq ft"
+  },
+  {
+    "price": "$1,329,900",
+    "address": "Premier Hampton Plan, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3 baths",
+    "sqft": "3457 sq ft"
+  },
+  {
+    "price": "$1,318,000",
+    "address": "Granbury - 7325 PR Plan, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3823 sq ft"
+  },
+  {
+    "price": "$186,000",
+    "address": "Jasmine Plan, Allen, TX 75013",
+    "bedrooms": "1 bed",
+    "bathrooms": "1 bath",
+    "sqft": "1225 sq ft"
+  },
+  {
+    "price": "$1,789,900",
+    "address": "Hamptons Plan, Allen, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "6408 sq ft"
+  },
+  {
+    "price": "$1,519,900",
+    "address": "Grand Whitestone Plan, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "4 baths",
+    "sqft": "3945 sq ft"
+  },
+  {
+    "price": "$256,000",
+    "address": "Darlington - Rev Plan, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1687 sq ft"
+  },
+  {
+    "price": "$1,219,000",
+    "address": "Canton - SH 6311 Plan, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "3 baths",
+    "sqft": "3175 sq ft"
+  },
+  {
+    "price": "$1,559,900",
+    "address": "Grand Aspen XI Plan, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "5 baths",
+    "sqft": "5190 sq ft"
+  },
+  {
+    "price": "$1,055,000",
+    "address": "Griffin V Plan, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3398 sq ft"
+  },
+  {
+    "price": "$1,555,000",
+    "address": "Comanche - SH 9204 Plan, Allen, TX 75002",
+    "bedrooms": "5 beds",
+    "bathrooms": "6.5 baths",
+    "sqft": "6224 sq ft"
+  },
+  {
+    "price": "$209,000",
+    "address": "Pinehurst -Rev Plan, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1343 sq ft"
+  },
+  {
+    "price": "$1,415,000",
+    "address": "Mabank - SH 9406 Plan, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "4653 sq ft"
+  },
+  {
+    "price": "$219,000",
+    "address": "Innsbruck Plan, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1396 sq ft"
+  },
+  {
+    "price": "$1,490,900",
+    "address": "Hampton III Plan, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "4166 sq ft"
+  },
+  {
+    "price": "$1,369,000",
+    "address": "Wimberley - 6225PR Plan, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "4 baths",
+    "sqft": "4422 sq ft"
+  },
+  {
+    "price": "$1,389,000",
+    "address": "Fairfield - SH 9306 Plan, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "4598 sq ft"
+  },
+  {
+    "price": "$1,160,000",
+    "address": "Madison II Plan, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "3936 sq ft"
+  },
+  {
+    "price": "$1,320,000",
+    "address": "Millsap - SH 8315 Plan, Allen, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "4.5 baths",
+    "sqft": "3865 sq ft"
+  },
+  {
+    "price": "$207,000",
+    "address": "Pinehurst Plan, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1331 sq ft"
+  },
+  {
+    "price": "$250,000",
+    "address": "Quentin Plan, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1580 sq ft"
+  },
+  {
+    "price": "$224,000",
+    "address": "Pendleton Plan, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1441 sq ft"
+  },
+  {
+    "price": "$246,000",
+    "address": "Darlington Plan, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1600 sq ft"
+  },
+  {
+    "price": "$211,000",
+    "address": "Oakdale Plan, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1377 sq ft"
+  },
+  {
+    "price": "$1,389,900",
+    "address": "Grand Maison II Plan, Allen, TX 75002",
+    "bedrooms": "3 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3856 sq ft"
+  },
+  {
+    "price": "$257,000",
+    "address": "Irvington Plan, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1566 sq ft"
+  },
+  {
+    "price": "$223,000",
+    "address": "Wexford Plan, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1499 sq ft"
+  },
+  {
+    "price": "$1,099,000",
+    "address": "Ashland III Plan, Allen, TX 75013",
+    "bedrooms": "4 beds",
+    "bathrooms": "3.5 baths",
+    "sqft": "3598 sq ft"
+  },
+  {
+    "price": "$244,000",
+    "address": "Queensland Plan, Allen, TX 75013",
+    "bedrooms": "2 beds",
+    "bathrooms": "2 baths",
+    "sqft": "1536 sq ft"
+  },
+  {
+    "price": "$1,235,000",
+    "address": "1202 E Winningkoff Rd, Lucas, TX 75002",
+    "bedrooms": "4 beds",
+    "bathrooms": "2 baths",
+    "sqft": "2400 sq ft"
+  },
+  {
+    "price": "Unknown",
+    "address": "Homes Available Soon Plan, Allen, TX 75013",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "sqft": "N/A"
+  },
+  {
+    "price": "$450,000",
+    "address": "5805 Frenzel Dr, Parker, TX 75002",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "sqft": "N/A"
+  },
+  {
+    "price": "$450,000",
+    "address": "5915 Frenzel Dr, Parker, TX 75002",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "sqft": "N/A"
+  },
+  {
+    "price": "$686,000",
+    "address": "1134 Top Deck Trl, Lucas, TX 75002",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "sqft": "N/A"
+  },
+  {
+    "price": "$699,000",
+    "address": "1074 Top Deck Trl, Lucas, TX 75002",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "sqft": "N/A"
+  },
+  {
+    "price": "$650,000",
+    "address": "Lot 9 Creekwood Estates Britton Ct, Fairview, TX 75069",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "sqft": "N/A"
+  },
+  {
+    "price": "$535,000",
+    "address": "Lot 2 Creekwood Estates Britton Ct, Fairview, TX 75069",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "sqft": "N/A"
+  },
+  {
+    "price": "$799,000",
+    "address": "00 Natchez Trce, Allen, TX 75013",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "sqft": "N/A"
+  },
+  {
+    "price": "$725,000",
+    "address": "2120 Estates Pkwy, Lucas, TX 75002",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "sqft": "N/A"
+  },
+  {
+    "price": "$450,000",
+    "address": "5918 Frenzel Dr, Parker, TX 75002",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "sqft": "N/A"
+  },
+  {
+    "price": "$1,770,003",
+    "address": "1705 Stinson Rd, Lucas, TX 75002",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "sqft": "N/A"
+  },
+  {
+    "price": "$565,000",
+    "address": "4101 Rolling Knolls Dr, Parker, TX 75002",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "sqft": "N/A"
+  },
+  {
+    "price": "$345,000",
+    "address": "379 N Cedar Rd, Allen, TX 75002",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "sqft": "N/A"
+  },
+  {
+    "price": "$175,000",
+    "address": "402 E Main St, Allen, TX 75002",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "sqft": "N/A"
+  },
+  {
+    "price": "$455,000",
+    "address": "991 Hamlin Ct, Lucas, TX 75002",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "sqft": "N/A"
+  },
+  {
+    "price": "$3,500,000",
+    "address": "1520 N Greenville Ave, Allen, TX 75002",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "sqft": "N/A"
+  },
+  {
+    "price": "$1,975,000",
+    "address": "0000 Main St, Allen, TX 75002",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "sqft": "N/A"
+  },
+  {
+    "price": "$2,000,000",
+    "address": "2200 Lucas, Lucas, TX 75002",
+    "bedrooms": "N/A",
+    "bathrooms": "N/A",
+    "sqft": "N/A"
+  }
+]
