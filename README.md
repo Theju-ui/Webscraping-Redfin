@@ -34,7 +34,7 @@ You can check by running:
    ```bash
    npm start
    ```
-## Go to postman
+## Go to postman and send GET request on the localhost port 8080
 
 **curl command for postman in localhost**
    ```bash
