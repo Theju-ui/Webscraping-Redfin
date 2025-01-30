@@ -34,3 +34,13 @@ You can check by running:
    ```bash
    npm start
    ```
+## Go to postman
+
+**curl command for postman in localhost**
+   ```bash
+   curl --location 'http://localhost:8080/' \
+   --header 'Content-Type: application/json'
+   ```
+**sample response**
+<img width="1512" alt="Screenshot 2025-01-30 at 12 23 37 PM" src="https://github.com/user-attachments/assets/9a44984f-fbd5-4164-b919-828f6d7e53c7" />
+
