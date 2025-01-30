@@ -30,7 +30,7 @@ app.get("/", async (req: Request, res: Response) => {
  */
 async function scrapeRedfin() {
   const browser = await puppeteer.launch({
-    headless: false,
+    headless: true,
     args: [
       "--start-maximized",
       "--disable-blink-features=AutomationControlled",
